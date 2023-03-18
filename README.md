@@ -15,4 +15,4 @@ This Django blog application provides a platform for users to create, manage and
 * Analytics tools for tracking user behavior and blog post views
 
 ### License
-This project is licensed under the **Apache 2.0** license.
+> This project is licensed under the **Apache 2.0** license.
