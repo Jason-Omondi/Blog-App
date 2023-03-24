@@ -1,3 +1,4 @@
+<h1 align="center">Hello there 👋, I'm Jason Omondi</h1>
 # Blog-App
 
 ## Django Blog Application
